@@ -32,3 +32,37 @@ form.feedbackForm input[type="text"]  {/*какие-то определения 
 
 Пятая строка — селектор идентификатора, типа и псевдокласс. Специфичность 0,1,1,1.
 
+
+
+
+
+обственно, проще перечислить те свойства, которые наследуются. Вот они:
+
+border-collapse
+border-spacing
+caption-side
+color
+cursor
+direction
+empty-cells
+font-family
+font-size
+font-style
+font-variant
+font-weight
+font
+letter-spacing
+line-height
+list-style-image
+list-style-position
+list-style-type
+list-style
+orphans
+quotes
+text-align
+text-indent
+text-transform
+visibility
+white-space
+widows
+word-spacing
